@@ -1,2 +1,3 @@
-# leetcode-solutions
-My LeetCode solutions with explanations, time complexity, and space complexity.
+# LeetCode Solutions
+
+Solving LeetCode problems to practice DSA. Adding solutions here as I go.
